@@ -63,7 +63,7 @@ Color-coded insights for easy interpretation
 
 # Key Findings
 
-Strong Correlation: Positive relationship between new and returning users
-Weekly Variations: Significant fluctuations in user acquisition across weeks
-Peak Performance: Week 47 showed highest user engagement
-Duration Patterns: User engagement duration varies independently of user acquisition
+1. Strong Correlation: Positive relationship between new and returning users
+2. Weekly Variations: Significant fluctuations in user acquisition across weeks
+3. Peak Performance: Week 47 showed highest user engagement
+4. Duration Patterns: User engagement duration varies independently of user acquisition
